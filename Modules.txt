@@ -1,0 +1,5 @@
+Random TimeTable Generation -> vamsi 
+Compute Fitness -> pavan
+Crossover Calculation -> vamsi
+Mutation -> pavan
+Integration -> both
